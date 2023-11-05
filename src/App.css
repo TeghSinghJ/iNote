@@ -1,0 +1,8 @@
+.banner {
+  background:linear-gradient(to left, #007bff, #9198e5);
+}
+.form-control{
+  background:#F2F2F2;
+  border-radius:0px;
+  border:none;
+}
